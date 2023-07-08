@@ -16,20 +16,6 @@ We are thrilled to announce the release of **Viper Anticheat**, a powerful and r
 
 We have put considerable effort into ensuring that Viper Anticheat is easy to install and integrate into your server. Our detailed documentation provides step-by-step instructions, and our dedicated support team is available to assist you with any queries or issues you may encounter.
 
-## Screenshots
-
-![image|343x256](upload://8slGD6hT9ct1waipc4eiHEtr6Qg.png)
-
-![image|312x136](upload://kOc9tOZq4Z2CejrARrOAQmXrFJO.png)
-
-![image|547x361](upload://q5Glm8I2x8nplJtzVgcIBwhD1VE.png)
-
-![image|592x319](upload://9HDC978YaNvC43Jspif6t9zcf8x.jpeg)
-
-
-
-
-
 
 ## Conclusion
 
